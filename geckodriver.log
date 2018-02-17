@@ -1,0 +1,177 @@
+1518783665392	geckodriver	INFO	geckodriver 0.18.0
+1518783665425	geckodriver	INFO	Listening on 127.0.0.1:37955
+1518783666586	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518783667516	Marionette	INFO	Enabled via --marionette
+1518783670771	Marionette	INFO	Listening on port 40557
+1518783670870	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518784215848	geckodriver	INFO	geckodriver 0.18.0
+1518784215855	geckodriver	INFO	Listening on 127.0.0.1:55581
+1518784216958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784217894	Marionette	INFO	Enabled via --marionette
+1518784220812	Marionette	INFO	Listening on port 42587
+1518784221869	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518784238699	geckodriver	INFO	geckodriver 0.18.0
+1518784238707	geckodriver	INFO	Listening on 127.0.0.1:37643
+1518784239799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784240665	Marionette	INFO	Enabled via --marionette
+1518784243910	Marionette	INFO	Listening on port 44877
+1518784243932	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518784256186	geckodriver	INFO	geckodriver 0.18.0
+1518784256194	geckodriver	INFO	Listening on 127.0.0.1:39993
+1518784257293	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784258238	Marionette	INFO	Enabled via --marionette
+1518784261159	Marionette	INFO	Listening on port 42347
+1518784262201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784307802	geckodriver	INFO	geckodriver 0.18.0
+1518784307808	geckodriver	INFO	Listening on 127.0.0.1:38009
+1518784308905	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784309861	Marionette	INFO	Enabled via --marionette
+1518784312901	Marionette	INFO	Listening on port 44135
+1518784312927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784421040	geckodriver	INFO	geckodriver 0.18.0
+1518784421046	geckodriver	INFO	Listening on 127.0.0.1:43603
+1518784422148	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784423072	Marionette	INFO	Enabled via --marionette
+1518784426183	Marionette	INFO	Listening on port 33235
+1518784427231	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518784457372	geckodriver	INFO	geckodriver 0.18.0
+1518784457379	geckodriver	INFO	Listening on 127.0.0.1:50161
+1518784458476	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784459450	Marionette	INFO	Enabled via --marionette
+1518784462729	Marionette	INFO	Listening on port 40811
+1518784463796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784519532	geckodriver	INFO	geckodriver 0.18.0
+1518784519538	geckodriver	INFO	Listening on 127.0.0.1:47719
+1518784520634	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784521675	Marionette	INFO	Enabled via --marionette
+1518784524562	Marionette	INFO	Listening on port 33183
+1518784525585	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18407, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518784638071	geckodriver	INFO	geckodriver 0.18.0
+1518784638079	geckodriver	INFO	Listening on 127.0.0.1:58549
+1518784639179	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518784640226	Marionette	INFO	Enabled via --marionette
+1518784643077	Marionette	INFO	Listening on port 33319
+1518784643101	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18786, Gecko_IOThread] WARNING: pipe error (159): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518785067113	geckodriver	INFO	geckodriver 0.18.0
+1518785067118	geckodriver	INFO	Listening on 127.0.0.1:55887
+1518785068219	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518785069142	Marionette	INFO	Enabled via --marionette
+1518785072030	Marionette	INFO	Listening on port 44867
+1518785073062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518785097755	geckodriver	INFO	geckodriver 0.18.0
+1518785097759	geckodriver	INFO	Listening on 127.0.0.1:41471
+1518785098863	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518785100336	Marionette	INFO	Enabled via --marionette
+1518785103262	Marionette	INFO	Listening on port 33699
+1518785103289	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518785184065	geckodriver	INFO	geckodriver 0.18.0
+1518785184071	geckodriver	INFO	Listening on 127.0.0.1:34765
+1518785185168	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518785186093	Marionette	INFO	Enabled via --marionette
+1518785189131	Marionette	INFO	Listening on port 35941
+1518785189188	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518792187680	geckodriver	INFO	geckodriver 0.18.0
+1518792187688	geckodriver	INFO	Listening on 127.0.0.1:58501
+1518792188785	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518792189757	Marionette	INFO	Enabled via --marionette
+1518792192600	Marionette	INFO	Listening on port 37383
+1518792192622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518792256775	geckodriver	INFO	geckodriver 0.18.0
+1518792256780	geckodriver	INFO	Listening on 127.0.0.1:34687
+1518792257876	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518792258801	Marionette	INFO	Enabled via --marionette
+1518792261950	Marionette	INFO	Listening on port 43315
+1518792263011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518792289449	geckodriver	INFO	geckodriver 0.18.0
+1518792289455	geckodriver	INFO	Listening on 127.0.0.1:56673
+1518792290549	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518792291497	Marionette	INFO	Enabled via --marionette
+1518792294505	Marionette	INFO	Listening on port 40435
+1518792294569	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518792339567	geckodriver	INFO	geckodriver 0.18.0
+1518792339570	geckodriver	INFO	Listening on 127.0.0.1:39725
+1518792340669	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518792342895	Marionette	INFO	Enabled via --marionette
+1518792346098	Marionette	INFO	Listening on port 34651
+1518792346197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518792447582	geckodriver	INFO	geckodriver 0.18.0
+1518792447587	geckodriver	INFO	Listening on 127.0.0.1:40031
+1518792448684	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518792449595	Marionette	INFO	Enabled via --marionette
+1518792452473	Marionette	INFO	Listening on port 45431
+1518792452504	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518792476919	geckodriver	INFO	geckodriver 0.18.0
+1518792476924	geckodriver	INFO	Listening on 127.0.0.1:57193
+1518792478028	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518792478966	Marionette	INFO	Enabled via --marionette
+1518792481855	Marionette	INFO	Listening on port 35983
+1518792481949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518792513739	geckodriver	INFO	geckodriver 0.18.0
+1518792513746	geckodriver	INFO	Listening on 127.0.0.1:47883
+1518792514836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518792515752	Marionette	INFO	Enabled via --marionette
+1518792518578	Marionette	INFO	Listening on port 44025
+1518792519667	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1518807075671	geckodriver	INFO	geckodriver 0.18.0
+1518807075727	geckodriver	INFO	Listening on 127.0.0.1:51029
+1518807077201	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518807078736	Marionette	INFO	Enabled via --marionette
+1518807082541	Marionette	INFO	Listening on port 34359
+1518807082727	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/10291516845636061762/scripts/twgl-full.min.js, line 68: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/10291516845636061762/scripts/twgl-full.min.js, line 68: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/10291516845636061762/scripts/twgl-full.min.js, line 68: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1518807130189	geckodriver	INFO	geckodriver 0.18.0
+1518807130196	geckodriver	INFO	Listening on 127.0.0.1:50601
+1518807131295	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518807132655	Marionette	INFO	Enabled via --marionette
+1518807135765	Marionette	INFO	Listening on port 38125
+1518807135815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518808186088	geckodriver	INFO	geckodriver 0.18.0
+1518808186092	geckodriver	INFO	Listening on 127.0.0.1:55457
+1518808187193	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1518808188136	Marionette	INFO	Enabled via --marionette
+1518808190861	Marionette	INFO	Listening on port 39183
+1518808190921	Marionette	WARN	TLS certificate errors will be ignored for this session
