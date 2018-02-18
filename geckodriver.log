@@ -175,3 +175,591 @@ JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns
 1518808188136	Marionette	INFO	Enabled via --marionette
 1518808190861	Marionette	INFO	Listening on port 39183
 1518808190921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518959643012	geckodriver	INFO	geckodriver 0.19.1
+1518959643565	geckodriver	INFO	Listening on 127.0.0.1:37991
+1518959646913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.iMye4HJRtrfs"
+1518959651842	Marionette	INFO	Enabled via --marionette
+[Child 15660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518959667527	Marionette	INFO	Listening on port 38004
+1518959668268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+[Parent 13480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518959727053	geckodriver	INFO	geckodriver 0.19.1
+1518959727053	geckodriver	INFO	Listening on 127.0.0.1:38574
+1518959730170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.N967NHoTJmJj"
+1518959791794	geckodriver	INFO	geckodriver 0.19.1
+1518959791810	geckodriver	INFO	Listening on 127.0.0.1:38612
+1518959794948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.64k4suRJvt6I"
+1518959795806	Marionette	INFO	Enabled via --marionette
+1518959799735	Marionette	INFO	Listening on port 38620
+1518959801273	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:38863
+1518959836100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.evkikrED6qZr"
+1518959837723	Marionette	INFO	Enabled via --marionette
+1518959843327	Marionette	INFO	Listening on port 38880
+1518959843610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+[Child 7448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518960037147	geckodriver	INFO	geckodriver 0.19.1
+1518960037147	geckodriver	INFO	Listening on 127.0.0.1:39535
+1518960040296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.Ka0ujwfX4z4F"
+1518960044958	Marionette	INFO	Enabled via --marionette
+1518960047407	Marionette	INFO	Listening on port 39543
+1518960047899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a functio1518960140149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.ndYl3M3J1Suc"
+1518960141173	Marionette	INFO	Enabled via --marionette
+1518960143893	Marionette	INFO	Listening on port 40002
+1518960144355	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tic/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a functio1518960249135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.Y1Qq998zCQMo"
+1518960274220	Marionette	INFO	Enabled via --marionette
+1518960280304	Marionette	INFO	Listening on port 40166
+1518960280697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+ne 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+[Parent 13596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518960996595	geckodriver	INFO	geckodriver 0.19.1
+1518960996610	geckodriver	INFO	Listening on 127.0.0.1:40716
+1518960999648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.jrJOZoPmLXnD"
+1518961013911	Marionette	INFO	Enabled via --marionette
+1518961020946	Marionette	INFO	Listening on port 40724
+1518961021061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518962790751	geckodriver	INFO	geckodriver 0.19.1
+1518962790767	geckodriver	INFO	Listening on 127.0.0.1:40984
+1518962793887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.BxmyK6WVDgHm"
+1518962796159	Marionette	INFO	Enabled via --marionette
+1518962798524	Marionette	INFO	Listening on port 40992
+1518962799272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://coolblue-coolblue.bannerflow.com/scripts/1.0.5/bf.min.js, line 1: TypeError: e.contentWindow is null
+JavaScript error: https://coolblue-coolblue.bannerflow.com/scripts/1.0.0/banner.min.js, line 1: TypeError: e.contentWindow is null
+1518964327449	geckodriver	INFO	geckodriver 0.19.1
+1518964327472	geckodriver	INFO	Listening on 127.0.0.1:42302
+1518964333138	geckodriver	INFO	geckodriver 0.19.1
+1518964333154	geckodriver	INFO	Listening on 127.0.0.1:42306
+1518964336292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.ajtrRps77VU7"
+1518964338586	Marionette	INFO	Enabled via --marionette
+1518964340795	Marionette	INFO	Listening on port 42314
+1518964341592	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518966654199	geckodriver	INFO	geckodriver 0.19.1
+1518966654215	geckodriver	INFO	Listening on 127.0.0.1:44733
+1518966657248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.W6smBdIRgEVg"
+1518966661774	Marionette	INFO	Enabled via --marionette
+1518966668388	Marionette	INFO	Listening on port 44741
+1518966669261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://coolblue-coolblue.bannerflow.com/scripts/1.0.5/bf.min.js, line 1: TypeError: e.contentWindow is null
+JavaScript error: https://coolblue-coolblue.bannerflow.com/scripts/1.0.5/bf.min.js, line 1: TypeError: e.contentWindow is null
+1518969733580	geckodriver	INFO	geckodriver 0.19.1
+1518969733600	geckodriver	INFO	Listening on 127.0.0.1:47467
+1518969736703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ARNE__~1\\AppData\\Local\\Temp\\rust_mozprofile.wfgHIMdWwnT6"
+1518969740561	Marionette	INFO	Enabled via --marionette
+1518969743535	Marionette	INFO	Listening on port 47475
+1518969744431	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
