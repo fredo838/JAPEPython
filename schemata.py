@@ -32,6 +32,7 @@ def N2A2_joke(d1, d2, w1, w2):
 
 
 def N2A2_req():
+    w1, w2 = homophones()
     return ["hom 1 2", "syn 3 1", "syn 4 2", "adjective noun adjective noun"]
 
 

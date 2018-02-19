@@ -1,6 +1,6 @@
 from selenium import webdriver
 from thesaurus import Word
-
+from nltk.corpus import wordnet
 # from selenium.webdriver import ActionChains
 # import selenium.common.exceptions
 
@@ -45,4 +45,6 @@ class Driver:
 
     def get_synonyms(self, input_word):
         w = Word(input_word)
+        print(wordnet.synsets('dog'))
+        print(wordnet.synsets('test'))
         return w.synonyms()
