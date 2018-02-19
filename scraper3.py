@@ -137,16 +137,30 @@ for word in words[1]:
 w = []
 
 for word in words[1]:
-    try:
-        w.append(Word(word).origin().split()[0])
-    except IndexError:
-        w.append(word)
-print(w, speeches)
+  try:
+    w.append(Word(word).origin().split()[0])
+  except IndexError:
+    w.append(word)
+print(w,speeches)
 
+def generate_riddle(words,speeches):
+  tot = list(zip(words,speeches))
+  shuffle(tot)
+  res = "Q: A(n)"
+  print(tot)
+  for i in range(1,len(tot)):
+    print(tot[i][1][0])
+    if tot[i][1][0] == "adj":
+      res = res + " "+tot[i][0]
+  for i in range(1,len(tot)):
+    if tot[i][1][0] == "noun":
+      res = res + " "+tot[i][0]
+  res = res + " that can "
+  for i in range(1,len(tot)):
+    if tot[i][1][0] == "verb":
+      res = res + " "+tot[i][0]
+  
+  res = res +" A: "+tot[1][0]
+  return res
 
-def generate_riddle(words, speeches):
-    tot = list(zip(words, speeches))
-    shuffle(tot)
-    for i in range(0, len(words)):
-        if words[0] == "adj":
-            res.append(" " + tot[i][0])
+print(generate_riddle(w,speeches))
