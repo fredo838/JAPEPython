@@ -117,14 +117,14 @@ class Driver:
 
 def no_none(w):
     for e in w:
-        if e == None:
+        if e is None:
             return False
     return True
 
 
 def all_none(w):
     for e in w:
-        if e != None:
+        if e is not None:
             return False
     return True
 
@@ -137,30 +137,32 @@ for word in words[1]:
 w = []
 
 for word in words[1]:
-  try:
-    w.append(Word(word).origin().split()[0])
-  except IndexError:
-    w.append(word)
-print(w,speeches)
+    try:
+        w.append(Word(word).origin().split()[0])
+    except IndexError:
+        w.append(word)
+print(w, speeches)
 
-def generate_riddle(words,speeches):
-  tot = list(zip(words,speeches))
-  shuffle(tot)
-  res = "Q: A(n)"
-  print(tot)
-  for i in range(1,len(tot)):
-    print(tot[i][1][0])
-    if tot[i][1][0] == "adj":
-      res = res + " "+tot[i][0]
-  for i in range(1,len(tot)):
-    if tot[i][1][0] == "noun":
-      res = res + " "+tot[i][0]
-  res = res + " that can "
-  for i in range(1,len(tot)):
-    if tot[i][1][0] == "verb":
-      res = res + " "+tot[i][0]
-  
-  res = res +" A: "+tot[1][0]
-  return res
 
-print(generate_riddle(w,speeches))
+def generate_riddle(words, speeches):
+    tot = list(zip(words, speeches))
+    shuffle(tot)
+    res = "Q: A(n)"
+    print(tot)
+    for i in range(1, len(tot)):
+        print(tot[i][1][0])
+        if tot[i][1][0] == "adj":
+            res = res + " " + tot[i][0]
+    for i in range(1, len(tot)):
+        if tot[i][1][0] == "noun":
+            res = res + " " + tot[i][0]
+    res = res + " that can "
+    for i in range(1, len(tot)):
+        if tot[i][1][0] == "verb":
+            res = res + " " + tot[i][0]
+
+    res = res + " A: " + tot[1][0]
+    return res
+
+
+print(generate_riddle(w, speeches))
